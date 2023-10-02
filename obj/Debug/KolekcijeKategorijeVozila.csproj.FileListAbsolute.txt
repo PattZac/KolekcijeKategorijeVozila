@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\bin\Debug\KolekcijeKategorijeVozila.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\bin\Debug\KolekcijeKategorijeVozila.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\bin\Debug\KolekcijeKategorijeVozila.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.Form1.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.Properties.Resources.resources
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\KolekcijeKategorijeVozila\obj\Debug\KolekcijeKategorijeVozila.pdb
